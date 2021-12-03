@@ -46,8 +46,8 @@ Requirements
 Building
 --------
 
-See INSTALL for information on how to build QModBus.
-
+See INSTALL for information on how to build QModBus. Alternatively, for Linux, run `make`
+to build using the Dockerfile (based on Ubuntu 18).
 
 
 Contact
